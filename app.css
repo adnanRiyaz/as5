@@ -1,0 +1,118 @@
+.navbar-brand{
+    padding: 19px 56px;
+}
+.nav-item{
+    padding: 20px 30px;
+}
+#para{
+    font-size: 32px;
+    color: antiquewhite;
+}
+#headi{
+    font-size: 48px;
+    color: antiquewhite;
+    font-family: Roboto;
+
+}
+.main{
+    background-image: url("backk.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+    opacity: 1;
+}
+
+#btn{
+    background-color: white;
+    color: black;
+    padding: 7px 34px;
+    margin-top: 20px;
+    border:none;
+}
+#btn:hover{
+    background-color: rgb(236, 230, 230);
+}
+
+#con{
+    justify-content:center;
+}
+
+.card-title{
+    text-align: center;
+    padding: 10px 20px;
+}
+.card-text{
+    text-align: center;
+    font-size: 18px;
+    padding: 8px 10px;
+}
+.card-link{
+    text-align: center;
+    color:violet;
+}
+
+#z{
+    background: black;
+    color: aliceblue;
+    height: 300px;
+  position:absolute;
+  top:480%;
+  left: 50%;
+
+}
+#btn1{
+    background-color: white;
+    color: black;
+    padding: 7px 34px;
+    margin-top: 20px;
+    
+    border:none;
+    margin-left: 36px;
+    margin-top: 25px;
+}
+#z1{
+    background: black;
+    color: aliceblue;
+    height: 300px;
+ top:380%;
+ position: absolute;
+
+}
+#zn{
+    background: black;
+    color: aliceblue;
+    height: 300px;
+ top:280%;
+ position: absolute;
+ left: 50%;
+}
+
+#th{
+    text-align-last: center;
+    align-self: center;
+}
+.cc-footer-title{
+    text-align: left;
+    color: grey;
+    padding: 5px 0px;
+}
+.cc-footer-link-lg{
+    text-align: left;
+    text-decoration: none;
+    color: white;
+    font-size: 22px;
+}
+.rich-text{
+    text-align: left;
+    color: white;
+}
+.footer-social li a {
+    line-height: 0;
+    border-radius: 50%;
+    margin: 0 5px 5px 0;
+    width:50px;
+    height:30px;
+    text-align: center;
+    display: inline-block;
+    color: aliceblue;
+    font-size: 25px;
+}
